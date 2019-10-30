@@ -1,3 +1,9 @@
+Proof of concept for a simple React alpha scroller that uses Ant-Designs slider (https://ant.design/components/slider/) component. Since I could only find packages for React Native. 
+
+Not as responsive as it should be, but this is only inteded for mobile breakpoints.
+
+If the decision is made to use this for production then improvements will be made.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
