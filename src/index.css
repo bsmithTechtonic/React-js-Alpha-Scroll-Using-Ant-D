@@ -1,0 +1,13 @@
+.ant-slider-rail,
+.ant-slider-step,
+.ant-slider-track,
+.ant-slider-handle {
+  display: none;
+}
+
+div {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
